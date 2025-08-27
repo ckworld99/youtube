@@ -9,13 +9,13 @@
 ## 1️⃣ 원클릭 배포 버튼
 
 ### Render (백엔드)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ckstudio/youtube-dashboard/tree/main/backend)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ckworld99/youtube/tree/main/backend)
 
 > 버튼 클릭 → Render가 backend를 자동 배포  
 > 환경변수: `YT_API_KEY` 입력 필수
 
 ### Vercel (프론트엔드)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ckstudio/youtube-dashboard/tree/main/frontend&project-name=youtube-dashboard-frontend)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ckworld99/youtube/tree/main/frontend&project-name=youtube-dashboard-frontend)
 
 > 버튼 클릭 → Vercel이 frontend를 자동 배포  
 > 환경변수: `VITE_BACKEND_URL=<Render에서 발급받은 백엔드 URL>` 입력
